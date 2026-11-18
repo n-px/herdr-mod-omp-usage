@@ -1,0 +1,5 @@
+{
+  "global": {
+    "cmd-alt-u": "mod.open:omp-usage"
+  }
+}
